@@ -13,7 +13,7 @@ const Index = (props: IBlogGalleryProps) => (
   <Main
     meta={
       <Meta
-        title="Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS"
+        title="Talita-site pessoal do estudo next.js"
         description={AppConfig.description}
       />
     }
